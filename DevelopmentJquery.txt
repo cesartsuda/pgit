@@ -1,0 +1,2 @@
+Develooment data type 
+select *from Employee
